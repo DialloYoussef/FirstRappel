@@ -2,6 +2,7 @@ import { Component, inject } from '@angular/core';
 import { HousingLocation } from '../interface/housinglocation';
 import { HousingService } from '../services/housing.service';
 
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',

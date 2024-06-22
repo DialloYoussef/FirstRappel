@@ -25,3 +25,33 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<hr>
+<hr>
+# FirstRappelAngular16
+
+# NOTES:
+
+<div>
+    <h3> Services et Injection de dépendances </h3>
+    Les services Angular permettent de séparer les données et les fonctions de l'application Angular qui peuvent être utilisées par plusieurs composants de notre application.
+    <br>
+    L'injection de dépendances est le mécanisme qui gère les dépendances des composants d'une
+    application et les services que d'autres composants peuvent utiliser. 
+    <br>
+    <br>
+    pour generer un service on utilise: 
+    <h6> ng generate service housing </h6>
+</div>
+
+<hr>
+
+<div>
+    <h3>le Routing(Routage)</h3>
+    Le routage est la possibilité de naviguer d'un composant de l'application à un autre. Dans les applications à page unique (SPA) , seules certaines parties de la page sont mises à jour pour représenter la vue demandée par l'utilisateur.
+
+  <h6>La <i>routerLink</i> directive permet au routeur d'Angular de créer des liens dynamiques dans l'application. La valeur attribuée au routerLink est un tableau avec deux entrées : la partie   statique du chemin et les données dynamiques. <br>  
+    Pour que le <i>routerLink</i> fonctionne dans le modèle, ajoutez une importation ( <i> RouterLinket RouterOutletvers </i> ) au niveau du fichier depuis <i>'@angular/router' </i> 
+  </h6>
+
+</div>
