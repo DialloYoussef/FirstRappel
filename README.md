@@ -55,3 +55,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   </h6>
 
 </div>
+
+<hr>
+
+<div>
+  <h3>Les Forms</h3>
+
+  <h6>
+    En Angular, <i>FormGroupet FormControl</i> sont des types qui vous permettent de créer des formulaires. <br> Le type <i>FormControl</i> peut fournir une valeur par défaut et façonner les données du formulaire.
+  </h6>
+
+</div>
