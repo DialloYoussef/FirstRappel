@@ -26,6 +26,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+
+##
+Installez json-serverà partir de npm à l'aide de la commande suivante.
+ `npm install -g json-server`
+
+  Rassurez vous de l'existence de db.json à la racine du projet
+##
+  `json-server --watch db.json`
+
+  Dans votre navigateur Web, accédez au http://localhost:3000/locationset confirmez que la réponse inclut les données stockées dans db.json.
+
+  
+
+
 <hr>
 <hr>
 # FirstRappelAngular16
